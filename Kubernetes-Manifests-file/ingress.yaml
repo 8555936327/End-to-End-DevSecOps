@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: sunkhari.study
+    - host: sunkhari.com
       http:
         paths:
           - path: /api
